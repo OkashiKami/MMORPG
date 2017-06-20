@@ -1,1 +1,1 @@
-Assets/LostLand/TerrainMesh/Textures/terrainzone_(57)_-_baked.png
+Assets/LostLand/TerrainMesh/Textures/terrainzone_(12)_-_baked.png
