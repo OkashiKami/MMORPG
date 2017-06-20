@@ -1,1 +1,1 @@
-Assets/LostLand/TerrainMesh/Textures/terrainzone_(12)_-_baked.png
+Assets/NGUI/Examples/Models/Orc/Orc Skin (Diffuse).psd
